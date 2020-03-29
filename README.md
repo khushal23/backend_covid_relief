@@ -1,7 +1,8 @@
 # backend_covid_relief
 
 # APIS
-1. METHOD - GET
+1. METHOD - GET,
+
    URL - /countries
    
 2.  METHOD - GET
